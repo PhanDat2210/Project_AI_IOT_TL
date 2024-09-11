@@ -1,0 +1,9 @@
+1.Phan Lê Tiến Đạt  MSSV :1762 (Phân tích lên ý tưởng Tạo dự án + Code ,..)
+
+2.Lê Đình Dũng        MSSV :1273 (Thuyết Trình + Cung Cấp dữ liệu,...)
+
+3.Nguyễn Trần Quốc Bảo MSSV:4156 (Nhóm Trưởng ) (Phân công + Thuyết trình + xây dựng powerpoint,.. )
+
+Việc tích hợp Trí tuệ Nhân tạo (AI) với IoT (Internet of Things) trong các dự án hiện nay là một xu hướng rất quan trọng, đặc biệt khi áp dụng vào các lĩnh vực như nông nghiệp, môi trường và công nghiệp. Để sử dụng AI hiệu quả và chuyên nghiệp trong việc tạo PowerPoint cho các dự án tích hợp AI và IoT, 
+-> Chúng tôi đã sử dụng GAMMA AI để xây dựng nền trong đó !!
+-> link dự án : https://gamma.app/docs/Project-of-the-Future-Building-and-Promoting-Digital-Agriculture--lxtelw2vif0ddww
