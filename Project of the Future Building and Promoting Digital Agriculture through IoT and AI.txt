@@ -1,0 +1,17 @@
+Dự án này được lấy cảm hứng từ buổi hội thảo ITU/FAO Workshop on "Cultivating: Thúc đẩy nông nghiệp kỹ thuật số qua IoT và AI". Mục tiêu của dự án là phát triển những định hướng và xu thế mới trong tương lai, nhằm nâng cao hiểu biết và phát triển các ứng dụng của IoT và AI.
+
+Dự án này nhằm áp dụng những công nghệ tiên tiến như trí tuệ nhân tạo (AI) và Internet vạn vật (IoT) vào nền nông nghiệp Việt Nam. 
+
+Mục tiêu không chỉ là nâng cao năng suất và chất lượng sản phẩm, mà còn mở rộng tầm ảnh hưởng ra thị trường quốc tế. Chúng tôi sẽ thảo luận về việc tích hợp các công nghệ hiện đại như AI, IoT, máy bay không người lái (UAV) và nhiều giải pháp công nghệ khác để hỗ trợ các hoạt động quan trọng trong nông nghiệp.
+
+Thông tin mà chúng tôi cung cấp và đăng tải trên GitHub đã được chọn lọc kỹ lưỡng và đảm bảo độ chính xác cao, dựa trên dữ liệu và thống kê từ hội thảo của ITU và FAO. Bạn có thể tham khảo thêm tại: FAOSTAT.
+
+Dự án sẽ giúp phân tích, chọn lọc và loại bỏ thông tin không cần thiết từ các file dữ liệu chính thức.
+
+ Chúng tôi sẽ sử dụng trí tuệ nhân tạo (AI) để thực hiện quá trình chọn lọc một cách cẩn thận và chuyên nghiệp nhất, nhằm đảm bảo thông tin thống kê về cây trồng, chăn nuôi, và các lĩnh vực khác thông qua những biểu đồ do AI tạo nhằm  trở nên chính xác và đáng tin cậy.
+
+Mục tiêu của chúng tôi là thúc đẩy ứng dụng mạnh mẽ của AI và IoT để nâng cao những thế mạnh và đưa nền nông nghiệp vươn tầm quốc tế. Chúng tôi hướng đến việc xây dựng một hệ thống phân tích dữ liệu từ cảm biến nông nghiệp, nhằm theo dõi và dự đoán sức khỏe cây trồng. Để đạt được điều này, chúng tôi sẽ sử dụng dữ liệu về cây trồng (Crop Data) mà chúng tôi đã chọn lọc từ FAOSTAT để thực hiện các phân tích chi tiết.
+
+Chúng tôi cam kết phân tích dữ liệu một cách cẩn thận và xây dựng dự án một cách chuyên nghiệp nhất để đạt được những kết quả chính xác và đáng tin cậy.
+
+Xin cảm ơn !
